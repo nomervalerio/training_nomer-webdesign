@@ -1,0 +1,9 @@
+<project>
+        <includeProject>tooltwist</includeProject>
+        <includeProject>ttStd</includeProject>
+        <includeProject>ttWbd</includeProject>
+        <includeProject>ttdemo_t</includeProject>
+        <includeProject>training_nomer_t</includeProject>
+        <includeProject>training_charles_t</includeProject>
+        <includeProject>training_ryan_t</includeProject>
+</project>
